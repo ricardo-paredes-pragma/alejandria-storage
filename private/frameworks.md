@@ -2,10 +2,10 @@
 title: Frameworks Java
 description: framework
 published: true
-date: 2025-11-28T14:18:57.260Z
+date: 2025-11-28T14:43:56.965Z
 tags: java
 editor: markdown
-dateCreated: 2025-11-28T14:18:57.260Z
+dateCreated: 2025-11-28T14:43:55.497Z
 ---
 
 # Frameworks Java
