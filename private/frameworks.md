@@ -13,3 +13,4 @@ dateCreated: 2025-11-28T14:43:55.497Z
 - Quarkus
 - Jakarta
 - Apache Camel
+- Hibernate
