@@ -2,10 +2,10 @@
 title: Libros Java
 description: Resources
 published: true
-date: 2025-11-28T14:43:56.965Z
+date: 2025-12-24T16:09:46.240Z
 tags: java, libros
 editor: markdown
-dateCreated: 2025-11-28T14:43:55.497Z
+dateCreated: 2025-12-24T16:05:49.740Z
 ---
 
 # Libros Java
@@ -14,3 +14,4 @@ dateCreated: 2025-11-28T14:43:55.497Z
 - Jakarta book
 - Apache Camel book
 - Hibernate book
+- JPA Book
